@@ -1,0 +1,1 @@
+Eager declaration type of singltone pattern.
